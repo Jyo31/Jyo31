@@ -9,8 +9,12 @@ Welcome to my portfolio, where I showcase my projects.
 Database: Snowflake, Google BigQuery, PostgreSQL, MySQL, SQL Server
 Python: NumPy, Pandas
 Business Intelligence: Tableau, PowerBI
+System Integration Tools: MANTA, Collibra
 
-- 🔭 I’m currently working in American Express as a Product Development Analyst.
+✨**ABOUT ME IN 30 SECONDS**✨
+- 👩‍🎓 Graduate MIS Professional from University of San Francisco.
+- 🔭 I’m currently working in American Express as a Product Development Analyst with System Integrations and Analytics as key focus areas.
 - 🌱 I’m currently learning/upskilling myself with new Projects on SQL, Python and Data Vizualizations.
 - 📫 How to reach me: Email : jyo.rmsh@gmail.com
 - ⚡ Fun fact: I love playing Badminton and baking cup cakes!
+
