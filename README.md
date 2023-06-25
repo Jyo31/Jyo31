@@ -4,6 +4,7 @@ I'm Jyothi Ramesh, a data professional with a special interest in SQL. I'm passi
 database design, data modeling, and data analysis.
 
 📚 Projects
+
 Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools
