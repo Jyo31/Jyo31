@@ -6,10 +6,10 @@ database design, data modeling, and data analysis.
 Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools
-Database: Snowflake, Google BigQuery, PostgreSQL, MySQL, SQL Server
-Python: NumPy, Pandas
-Business Intelligence: Tableau, PowerBI
-System Integration Tools: MANTA, Collibra
+* Database: Snowflake, Google BigQuery, PostgreSQL, MySQL, SQL Server
+* Python: NumPy, Pandas
+* Business Intelligence: Tableau, PowerBI
+* System Integration Tools: MANTA, Collibra
 
 ✨**ABOUT ME IN 30 SECONDS**✨
 - 👩‍🎓 Graduate MIS Professional from University of San Francisco.
